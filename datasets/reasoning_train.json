@@ -1,0 +1,1442 @@
+[
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 25 points, earned 9 bonus points, then lost 11 points for a mistake. What is the final score?",
+    "answer": "23",
+    "id": 96
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 4 dollars. A pen costs 15 dollars. What is the total cost?",
+    "answer": "19",
+    "id": 108
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 25 heads and 64 legs. How many chickens are there?",
+    "answer": "18",
+    "id": 212
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 74 km per hour for 3 hours and then 69 km per hour for 3 hours. What distance did it travel?",
+    "answer": "429",
+    "id": 196
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 17 points, earned 10 bonus points, then lost 20 points for a mistake. What is the final score?",
+    "answer": "7",
+    "id": 99
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 20 points, earned 5 bonus points, then lost 7 points for a mistake. What is the final score?",
+    "answer": "18",
+    "id": 101
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 8 dollars. A pen costs 1 dollars. What is the total cost?",
+    "answer": "9",
+    "id": 93
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 30 - 25?",
+    "answer": "5",
+    "id": 28
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 44 km per hour for 3 hours and then 31 km per hour for 3 hours. What distance did it travel?",
+    "answer": "225",
+    "id": 225
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 12 * 9?",
+    "answer": "108",
+    "id": 8
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 81 km per hour for 3 hours and then 41 km per hour for 3 hours. What distance did it travel?",
+    "answer": "366",
+    "id": 213
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 14 + 35?",
+    "answer": "49",
+    "id": 76
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 2 dollars. A pen costs 7 dollars. What is the total cost?",
+    "answer": "9",
+    "id": 89
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 50 - 42?",
+    "answer": "8",
+    "id": 46
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 18 heads and 68 legs. How many chickens are there?",
+    "answer": "2",
+    "id": 232
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 28 heads and 70 legs. How many chickens are there?",
+    "answer": "21",
+    "id": 195
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 24 - 8?",
+    "answer": "16",
+    "id": 56
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 33 + 39?",
+    "answer": "72",
+    "id": 52
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 15 heads and 56 legs. How many chickens are there?",
+    "answer": "2",
+    "id": 163
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 22 heads and 54 legs. How many chickens are there?",
+    "answer": "17",
+    "id": 173
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 88 km per hour for 2 hours and then 59 km per hour for 1 hours. What distance did it travel?",
+    "answer": "235",
+    "id": 182
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 3 dollars. A pen costs 3 dollars. What is the total cost?",
+    "answer": "6",
+    "id": 88
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 3 * 9?",
+    "answer": "27",
+    "id": 26
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 19 dollars. A pen costs 15 dollars. What is the total cost?",
+    "answer": "34",
+    "id": 124
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 37 points, earned 4 bonus points, then lost 18 points for a mistake. What is the final score?",
+    "answer": "23",
+    "id": 128
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 38 + 28?",
+    "answer": "66",
+    "id": 5
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 14 heads and 44 legs. How many chickens are there?",
+    "answer": "6",
+    "id": 194
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 65 km per hour for 1 hours and then 53 km per hour for 2 hours. What distance did it travel?",
+    "answer": "171",
+    "id": 214
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 6 dollars. A pen costs 15 dollars. What is the total cost?",
+    "answer": "21",
+    "id": 125
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 37 points, earned 2 bonus points, then lost 30 points for a mistake. What is the final score?",
+    "answer": "9",
+    "id": 158
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 20 dollars. A pen costs 4 dollars. What is the total cost?",
+    "answer": "24",
+    "id": 159
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 42 - 32?",
+    "answer": "10",
+    "id": 34
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 67 km per hour for 1 hours and then 25 km per hour for 4 hours. What distance did it travel?",
+    "answer": "167",
+    "id": 183
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 19 dollars. A pen costs 12 dollars. What is the total cost?",
+    "answer": "31",
+    "id": 118
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 20 apples. He buys 4 more. He gives away 16. How many apples remain?",
+    "answer": "8",
+    "id": 107
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 6 * 4?",
+    "answer": "24",
+    "id": 33
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 61 km per hour for 1 hours and then 56 km per hour for 1 hours. What distance did it travel?",
+    "answer": "117",
+    "id": 234
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 41 km per hour for 3 hours and then 59 km per hour for 4 hours. What distance did it travel?",
+    "answer": "359",
+    "id": 207
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 12 dollars. A pen costs 13 dollars. What is the total cost?",
+    "answer": "25",
+    "id": 82
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 26 heads and 94 legs. How many chickens are there?",
+    "answer": "5",
+    "id": 204
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 29 heads and 68 legs. How many chickens are there?",
+    "answer": "24",
+    "id": 193
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 11 + 30?",
+    "answer": "41",
+    "id": 48
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 10 apples. He buys 5 more. He gives away 3. How many apples remain?",
+    "answer": "12",
+    "id": 156
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 14 apples. He buys 4 more. He gives away 7. How many apples remain?",
+    "answer": "11",
+    "id": 123
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 2 * 11?",
+    "answer": "22",
+    "id": 3
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 49 km per hour for 3 hours and then 34 km per hour for 1 hours. What distance did it travel?",
+    "answer": "181",
+    "id": 221
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 33 points, earned 9 bonus points, then lost 4 points for a mistake. What is the final score?",
+    "answer": "38",
+    "id": 94
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 21 + 32?",
+    "answer": "53",
+    "id": 55
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 78 km per hour for 4 hours and then 37 km per hour for 4 hours. What distance did it travel?",
+    "answer": "460",
+    "id": 187
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 25 points, earned 3 bonus points, then lost 7 points for a mistake. What is the final score?",
+    "answer": "21",
+    "id": 92
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 34 heads and 124 legs. How many chickens are there?",
+    "answer": "6",
+    "id": 162
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 49 + 22?",
+    "answer": "71",
+    "id": 13
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 32 points, earned 6 bonus points, then lost 16 points for a mistake. What is the final score?",
+    "answer": "22",
+    "id": 102
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 20 points, earned 1 bonus points, then lost 4 points for a mistake. What is the final score?",
+    "answer": "17",
+    "id": 134
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 8 * 4?",
+    "answer": "32",
+    "id": 77
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 16 apples. He buys 3 more. He gives away 8. How many apples remain?",
+    "answer": "11",
+    "id": 84
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 47 - 47?",
+    "answer": "0",
+    "id": 49
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 77 km per hour for 3 hours and then 42 km per hour for 4 hours. What distance did it travel?",
+    "answer": "399",
+    "id": 220
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 25 - 18?",
+    "answer": "7",
+    "id": 22
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 15 dollars. A pen costs 10 dollars. What is the total cost?",
+    "answer": "25",
+    "id": 138
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 32 points, earned 7 bonus points, then lost 32 points for a mistake. What is the final score?",
+    "answer": "7",
+    "id": 160
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 35 heads and 130 legs. How many chickens are there?",
+    "answer": "5",
+    "id": 165
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 20 points, earned 1 bonus points, then lost 2 points for a mistake. What is the final score?",
+    "answer": "19",
+    "id": 95
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 51 km per hour for 4 hours and then 46 km per hour for 1 hours. What distance did it travel?",
+    "answer": "250",
+    "id": 175
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 32 points, earned 5 bonus points, then lost 34 points for a mistake. What is the final score?",
+    "answer": "3",
+    "id": 110
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 32 heads and 114 legs. How many chickens are there?",
+    "answer": "7",
+    "id": 201
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 64 km per hour for 2 hours and then 51 km per hour for 2 hours. What distance did it travel?",
+    "answer": "230",
+    "id": 179
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 10 apples. He buys 1 more. He gives away 10. How many apples remain?",
+    "answer": "1",
+    "id": 131
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 12 apples. He buys 7 more. He gives away 17. How many apples remain?",
+    "answer": "2",
+    "id": 149
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 3 dollars. A pen costs 2 dollars. What is the total cost?",
+    "answer": "5",
+    "id": 136
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 1 * 11?",
+    "answer": "11",
+    "id": 44
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 12 apples. He buys 9 more. He gives away 9. How many apples remain?",
+    "answer": "12",
+    "id": 145
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 17 + 9?",
+    "answer": "26",
+    "id": 36
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 47 km per hour for 3 hours and then 26 km per hour for 2 hours. What distance did it travel?",
+    "answer": "193",
+    "id": 224
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 41 - 40?",
+    "answer": "1",
+    "id": 18
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 8 apples. He buys 7 more. He gives away 7. How many apples remain?",
+    "answer": "8",
+    "id": 87
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 4 dollars. A pen costs 11 dollars. What is the total cost?",
+    "answer": "15",
+    "id": 143
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 33 + 49?",
+    "answer": "82",
+    "id": 50
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 34 heads and 90 legs. How many chickens are there?",
+    "answer": "23",
+    "id": 198
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 9 apples. He buys 8 more. He gives away 11. How many apples remain?",
+    "answer": "6",
+    "id": 130
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 70 km per hour for 2 hours and then 37 km per hour for 4 hours. What distance did it travel?",
+    "answer": "288",
+    "id": 169
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 40 heads and 126 legs. How many chickens are there?",
+    "answer": "17",
+    "id": 189
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 43 - 9?",
+    "answer": "34",
+    "id": 61
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 35 km per hour for 2 hours and then 27 km per hour for 4 hours. What distance did it travel?",
+    "answer": "178",
+    "id": 236
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 1 * 10?",
+    "answer": "10",
+    "id": 54
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 30 heads and 116 legs. How many chickens are there?",
+    "answer": "2",
+    "id": 229
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 43 - 42?",
+    "answer": "1",
+    "id": 66
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 7 * 6?",
+    "answer": "42",
+    "id": 38
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 4 apples. He buys 5 more. He gives away 5. How many apples remain?",
+    "answer": "4",
+    "id": 122
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 36 heads and 82 legs. How many chickens are there?",
+    "answer": "31",
+    "id": 233
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 7 dollars. A pen costs 10 dollars. What is the total cost?",
+    "answer": "17",
+    "id": 135
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 57 km per hour for 3 hours and then 40 km per hour for 2 hours. What distance did it travel?",
+    "answer": "251",
+    "id": 208
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 17 heads and 62 legs. How many chickens are there?",
+    "answer": "3",
+    "id": 215
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 5 * 1?",
+    "answer": "5",
+    "id": 15
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 4 * 11?",
+    "answer": "44",
+    "id": 29
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 18 + 10?",
+    "answer": "28",
+    "id": 12
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 10 + 24?",
+    "answer": "34",
+    "id": 53
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 5 apples. He buys 7 more. He gives away 10. How many apples remain?",
+    "answer": "2",
+    "id": 100
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 48 + 18?",
+    "answer": "66",
+    "id": 2
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 5 apples. He buys 7 more. He gives away 4. How many apples remain?",
+    "answer": "8",
+    "id": 115
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 49 + 4?",
+    "answer": "53",
+    "id": 40
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 30 km per hour for 3 hours and then 39 km per hour for 4 hours. What distance did it travel?",
+    "answer": "246",
+    "id": 178
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 19 dollars. A pen costs 11 dollars. What is the total cost?",
+    "answer": "30",
+    "id": 91
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 15 - 3?",
+    "answer": "12",
+    "id": 31
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 39 points, earned 9 bonus points, then lost 44 points for a mistake. What is the final score?",
+    "answer": "4",
+    "id": 141
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 50 km per hour for 2 hours and then 49 km per hour for 3 hours. What distance did it travel?",
+    "answer": "247",
+    "id": 186
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 20 points, earned 8 bonus points, then lost 15 points for a mistake. What is the final score?",
+    "answer": "13",
+    "id": 152
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 48 + 35?",
+    "answer": "83",
+    "id": 4
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 29 heads and 98 legs. How many chickens are there?",
+    "answer": "9",
+    "id": 197
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 39 - 34?",
+    "answer": "5",
+    "id": 63
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 87 km per hour for 2 hours and then 67 km per hour for 4 hours. What distance did it travel?",
+    "answer": "442",
+    "id": 167
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 83 km per hour for 1 hours and then 50 km per hour for 1 hours. What distance did it travel?",
+    "answer": "133",
+    "id": 188
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 36 km per hour for 1 hours and then 39 km per hour for 4 hours. What distance did it travel?",
+    "answer": "192",
+    "id": 199
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 36 - 6?",
+    "answer": "30",
+    "id": 17
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 38 + 15?",
+    "answer": "53",
+    "id": 71
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 42 + 30?",
+    "answer": "72",
+    "id": 35
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 19 dollars. A pen costs 3 dollars. What is the total cost?",
+    "answer": "22",
+    "id": 147
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 18 heads and 58 legs. How many chickens are there?",
+    "answer": "7",
+    "id": 171
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 10 apples. He buys 7 more. He gives away 3. How many apples remain?",
+    "answer": "14",
+    "id": 98
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 16 + 4?",
+    "answer": "20",
+    "id": 57
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 23 points, earned 6 bonus points, then lost 24 points for a mistake. What is the final score?",
+    "answer": "5",
+    "id": 137
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 12 * 4?",
+    "answer": "48",
+    "id": 64
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 19 apples. He buys 2 more. He gives away 5. How many apples remain?",
+    "answer": "16",
+    "id": 97
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 28 - 27?",
+    "answer": "1",
+    "id": 80
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 3 apples. He buys 1 more. He gives away 1. How many apples remain?",
+    "answer": "3",
+    "id": 157
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 34 - 29?",
+    "answer": "5",
+    "id": 67
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 11 * 11?",
+    "answer": "121",
+    "id": 25
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 6 + 25?",
+    "answer": "31",
+    "id": 14
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 12 dollars. A pen costs 11 dollars. What is the total cost?",
+    "answer": "23",
+    "id": 144
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 19 dollars. A pen costs 1 dollars. What is the total cost?",
+    "answer": "20",
+    "id": 119
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 60 km per hour for 4 hours and then 41 km per hour for 2 hours. What distance did it travel?",
+    "answer": "322",
+    "id": 231
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 10 dollars. A pen costs 14 dollars. What is the total cost?",
+    "answer": "24",
+    "id": 132
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 37 heads and 134 legs. How many chickens are there?",
+    "answer": "7",
+    "id": 184
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 30 km per hour for 4 hours and then 51 km per hour for 1 hours. What distance did it travel?",
+    "answer": "171",
+    "id": 205
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 33 km per hour for 2 hours and then 27 km per hour for 4 hours. What distance did it travel?",
+    "answer": "174",
+    "id": 164
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 87 km per hour for 1 hours and then 28 km per hour for 2 hours. What distance did it travel?",
+    "answer": "143",
+    "id": 172
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 11 points, earned 2 bonus points, then lost 1 points for a mistake. What is the final score?",
+    "answer": "12",
+    "id": 81
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 41 + 24?",
+    "answer": "65",
+    "id": 23
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 22 heads and 60 legs. How many chickens are there?",
+    "answer": "14",
+    "id": 218
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 38 + 18?",
+    "answer": "56",
+    "id": 10
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 14 dollars. A pen costs 3 dollars. What is the total cost?",
+    "answer": "17",
+    "id": 103
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 34 heads and 72 legs. How many chickens are there?",
+    "answer": "32",
+    "id": 191
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 11 heads and 32 legs. How many chickens are there?",
+    "answer": "6",
+    "id": 185
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 20 dollars. A pen costs 2 dollars. What is the total cost?",
+    "answer": "22",
+    "id": 106
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 17 apples. He buys 9 more. He gives away 3. How many apples remain?",
+    "answer": "23",
+    "id": 85
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 2 * 7?",
+    "answer": "14",
+    "id": 42
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 47 + 16?",
+    "answer": "63",
+    "id": 27
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 12 heads and 38 legs. How many chickens are there?",
+    "answer": "5",
+    "id": 174
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 36 points, earned 1 bonus points, then lost 6 points for a mistake. What is the final score?",
+    "answer": "31",
+    "id": 86
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 36 km per hour for 1 hours and then 56 km per hour for 3 hours. What distance did it travel?",
+    "answer": "204",
+    "id": 230
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 16 dollars. A pen costs 5 dollars. What is the total cost?",
+    "answer": "21",
+    "id": 90
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 51 km per hour for 1 hours and then 51 km per hour for 3 hours. What distance did it travel?",
+    "answer": "204",
+    "id": 211
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 18 heads and 66 legs. How many chickens are there?",
+    "answer": "3",
+    "id": 209
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 8 apples. He buys 3 more. He gives away 6. How many apples remain?",
+    "answer": "5",
+    "id": 126
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 11 apples. He buys 2 more. He gives away 1. How many apples remain?",
+    "answer": "12",
+    "id": 112
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 11 dollars. A pen costs 4 dollars. What is the total cost?",
+    "answer": "15",
+    "id": 150
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 19 - 8?",
+    "answer": "11",
+    "id": 47
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 1 * 4?",
+    "answer": "4",
+    "id": 72
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 11 apples. He buys 9 more. He gives away 15. How many apples remain?",
+    "answer": "5",
+    "id": 114
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 11 apples. He buys 6 more. He gives away 16. How many apples remain?",
+    "answer": "1",
+    "id": 133
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 32 heads and 100 legs. How many chickens are there?",
+    "answer": "14",
+    "id": 226
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 14 heads and 54 legs. How many chickens are there?",
+    "answer": "1",
+    "id": 235
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 65 km per hour for 2 hours and then 64 km per hour for 4 hours. What distance did it travel?",
+    "answer": "386",
+    "id": 216
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 46 km per hour for 2 hours and then 60 km per hour for 3 hours. What distance did it travel?",
+    "answer": "272",
+    "id": 168
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 90 km per hour for 2 hours and then 24 km per hour for 2 hours. What distance did it travel?",
+    "answer": "228",
+    "id": 200
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 2 + 6?",
+    "answer": "8",
+    "id": 6
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 34 heads and 128 legs. How many chickens are there?",
+    "answer": "4",
+    "id": 210
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 16 apples. He buys 7 more. He gives away 21. How many apples remain?",
+    "answer": "2",
+    "id": 148
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 47 + 32?",
+    "answer": "79",
+    "id": 59
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 24 + 23?",
+    "answer": "47",
+    "id": 24
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 1 * 9?",
+    "answer": "9",
+    "id": 7
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 46 - 20?",
+    "answer": "26",
+    "id": 65
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 12 apples. He buys 9 more. He gives away 20. How many apples remain?",
+    "answer": "1",
+    "id": 155
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 10 apples. He buys 4 more. He gives away 3. How many apples remain?",
+    "answer": "11",
+    "id": 83
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 20 apples. He buys 5 more. He gives away 21. How many apples remain?",
+    "answer": "4",
+    "id": 111
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 7 * 6?",
+    "answer": "42",
+    "id": 11
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 7 dollars. A pen costs 11 dollars. What is the total cost?",
+    "answer": "18",
+    "id": 154
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 88 km per hour for 4 hours and then 39 km per hour for 4 hours. What distance did it travel?",
+    "answer": "508",
+    "id": 238
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 30 heads and 66 legs. How many chickens are there?",
+    "answer": "27",
+    "id": 190
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 39 points, earned 6 bonus points, then lost 27 points for a mistake. What is the final score?",
+    "answer": "18",
+    "id": 127
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 13 points, earned 7 bonus points, then lost 19 points for a mistake. What is the final score?",
+    "answer": "1",
+    "id": 139
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 6 apples. He buys 7 more. He gives away 0. How many apples remain?",
+    "answer": "13",
+    "id": 129
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 38 + 36?",
+    "answer": "74",
+    "id": 70
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 30 points, earned 5 bonus points, then lost 30 points for a mistake. What is the final score?",
+    "answer": "5",
+    "id": 104
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 72 km per hour for 3 hours and then 50 km per hour for 3 hours. What distance did it travel?",
+    "answer": "366",
+    "id": 219
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 31 + 27?",
+    "answer": "58",
+    "id": 78
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 27 heads and 74 legs. How many chickens are there?",
+    "answer": "17",
+    "id": 228
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 5 apples. He buys 3 more. He gives away 0. How many apples remain?",
+    "answer": "8",
+    "id": 120
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 26 + 18?",
+    "answer": "44",
+    "id": 32
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "Mary has 11 apples. He buys 5 more. He gives away 6. How many apples remain?",
+    "answer": "10",
+    "id": 113
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 20 heads and 48 legs. How many chickens are there?",
+    "answer": "16",
+    "id": 222
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 14 dollars. A pen costs 12 dollars. What is the total cost?",
+    "answer": "26",
+    "id": 146
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 16 heads and 60 legs. How many chickens are there?",
+    "answer": "2",
+    "id": 192
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 18 heads and 40 legs. How many chickens are there?",
+    "answer": "16",
+    "id": 227
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 7 * 6?",
+    "answer": "42",
+    "id": 79
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 39 - 25?",
+    "answer": "14",
+    "id": 43
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 2 * 7?",
+    "answer": "14",
+    "id": 16
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 58 km per hour for 1 hours and then 25 km per hour for 3 hours. What distance did it travel?",
+    "answer": "133",
+    "id": 217
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 5 * 12?",
+    "answer": "60",
+    "id": 37
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 5 + 22?",
+    "answer": "27",
+    "id": 69
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 8 * 2?",
+    "answer": "16",
+    "id": 39
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 90 km per hour for 4 hours and then 59 km per hour for 4 hours. What distance did it travel?",
+    "answer": "596",
+    "id": 166
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 37 + 6?",
+    "answer": "43",
+    "id": 58
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 11 apples. He buys 1 more. He gives away 11. How many apples remain?",
+    "answer": "1",
+    "id": 140
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 21 + 50?",
+    "answer": "71",
+    "id": 30
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "John has 14 apples. He buys 5 more. He gives away 5. How many apples remain?",
+    "answer": "14",
+    "id": 109
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 5 * 11?",
+    "answer": "55",
+    "id": 51
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 53 km per hour for 4 hours and then 65 km per hour for 2 hours. What distance did it travel?",
+    "answer": "342",
+    "id": 206
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 66 km per hour for 1 hours and then 59 km per hour for 1 hours. What distance did it travel?",
+    "answer": "125",
+    "id": 239
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 20 dollars. A pen costs 10 dollars. What is the total cost?",
+    "answer": "30",
+    "id": 151
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 45 km per hour for 2 hours and then 61 km per hour for 1 hours. What distance did it travel?",
+    "answer": "151",
+    "id": 161
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 64 km per hour for 4 hours and then 62 km per hour for 3 hours. What distance did it travel?",
+    "answer": "442",
+    "id": 203
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 84 km per hour for 1 hours and then 70 km per hour for 1 hours. What distance did it travel?",
+    "answer": "154",
+    "id": 202
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 30 heads and 74 legs. How many chickens are there?",
+    "answer": "23",
+    "id": 240
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 16 heads and 40 legs. How many chickens are there?",
+    "answer": "12",
+    "id": 223
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 36 heads and 126 legs. How many chickens are there?",
+    "answer": "9",
+    "id": 176
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 2 * 1?",
+    "answer": "2",
+    "id": 19
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 7 dollars. A pen costs 12 dollars. What is the total cost?",
+    "answer": "19",
+    "id": 117
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 57 km per hour for 4 hours and then 21 km per hour for 4 hours. What distance did it travel?",
+    "answer": "312",
+    "id": 180
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 5 - 3?",
+    "answer": "2",
+    "id": 73
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 72 km per hour for 4 hours and then 66 km per hour for 2 hours. What distance did it travel?",
+    "answer": "420",
+    "id": 181
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 5 + 33?",
+    "answer": "38",
+    "id": 74
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 49 + 35?",
+    "answer": "84",
+    "id": 60
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 27 - 15?",
+    "answer": "12",
+    "id": 9
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 43 - 18?",
+    "answer": "25",
+    "id": 75
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 27 points, earned 3 bonus points, then lost 14 points for a mistake. What is the final score?",
+    "answer": "16",
+    "id": 121
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 8 dollars. A pen costs 9 dollars. What is the total cost?",
+    "answer": "17",
+    "id": 153
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A train travels 87 km per hour for 1 hours and then 68 km per hour for 4 hours. What distance did it travel?",
+    "answer": "359",
+    "id": 177
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 6 dollars. A pen costs 11 dollars. What is the total cost?",
+    "answer": "17",
+    "id": 116
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A book costs 4 dollars. A pen costs 1 dollars. What is the total cost?",
+    "answer": "5",
+    "id": 105
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 41 + 8?",
+    "answer": "49",
+    "id": 1
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 34 heads and 118 legs. How many chickens are there?",
+    "answer": "9",
+    "id": 237
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 43 - 15?",
+    "answer": "28",
+    "id": 20
+  },
+  {
+    "difficulty": "medium",
+    "prompt": "A student scored 40 points, earned 4 bonus points, then lost 24 points for a mistake. What is the final score?",
+    "answer": "20",
+    "id": 142
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 9 * 5?",
+    "answer": "45",
+    "id": 45
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 36 - 11?",
+    "answer": "25",
+    "id": 62
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 10 + 41?",
+    "answer": "51",
+    "id": 41
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 6 + 15?",
+    "answer": "21",
+    "id": 21
+  },
+  {
+    "difficulty": "hard",
+    "prompt": "A farmer has chickens and cows. There are 32 heads and 84 legs. How many chickens are there?",
+    "answer": "22",
+    "id": 170
+  },
+  {
+    "difficulty": "easy",
+    "prompt": "What is 8 + 16?",
+    "answer": "24",
+    "id": 68
+  }
+]
