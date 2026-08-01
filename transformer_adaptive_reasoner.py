@@ -373,7 +373,7 @@ def main():
     )
 
     out=model.generate(
-        input_ids=input_ids,
+        input_ids=ids,
         attention_mask=attention_mask,
         max_tokens=50
     )
