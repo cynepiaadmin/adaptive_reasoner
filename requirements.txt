@@ -1,0 +1,11 @@
+# Runtime dependencies for the Adaptive Reasoner.
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: for actual training of the 0.5B backbone you want a CUDA build of
+# torch (pip install torch --index-url https://download.pytorch.org/whl/cu126).
+# The CPU build below is sufficient to import the model and run the offline
+# tests/ suite (which uses a tiny random GPT-2, no download).
+
+torch>=2.7.0
+transformers>=4.51.0
+accelerate>=0.30.0

@@ -1,9 +1,12 @@
+import argparse
 import json
+import os
+
 import torch
 
 from transformers import AutoTokenizer
 
-from transformer_adaptive_reasoner import (
+from adaptive_reasoner import (
     AdaptiveReasoner,
     MODEL
 )
@@ -38,7 +41,7 @@ def check_answer(
     )
 
 
-def evaluate():
+def evaluate(args):
 
     tokenizer = AutoTokenizer.from_pretrained(
         MODEL
@@ -46,6 +49,13 @@ def evaluate():
 
 
     model = AdaptiveReasoner()
+
+    ckpt = args.checkpoint
+    if ckpt and os.path.exists(ckpt):
+        model.load_trainables(ckpt)
+        print(f"Loaded trainables from {ckpt}")
+    else:
+        print("WARNING: no checkpoint loaded -- evaluating random init.")
 
     model.eval()
 
@@ -91,7 +101,8 @@ def evaluate():
             #
 
             output = model(
-                input_ids
+                input_ids,
+                attention_mask=attention_mask
             )
 
 
@@ -362,5 +373,12 @@ def evaluate():
 
 
 
-if __name__=="__main__":
-    evaluate()
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser()
+    ap.add_argument(
+        "--checkpoint",
+        default="checkpoints/adaptive_final.pt",
+        help="path to saved trainable modules"
+    )
+    args = ap.parse_args()
+    evaluate(args)
