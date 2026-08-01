@@ -360,8 +360,8 @@ def main():
     )
 
     base_output = model.llm.generate(
-        ids,
-        attention_mask,
+        input_ids=ids,
+        attention_mask=attention_mask,
         max_new_tokens=50
     )
     print("Baseline Qwen:")
@@ -372,7 +372,11 @@ def main():
         )
     )
 
-    out=model.generate(ids, max_tokens=50)
+    out=model.generate(
+        input_ids=input_ids,
+        attention_mask=attention_mask,
+        max_tokens=50
+    )
     print("Adaptive Reasoner:")
     print(
         tokenizer.decode(
