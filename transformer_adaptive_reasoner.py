@@ -331,10 +331,7 @@ class AdaptiveReasoner(nn.Module):
 # ============================================
 # Test
 # ============================================
-
-
 def main():
-
     tokenizer=AutoTokenizer.from_pretrained(
         MODEL
     )
@@ -348,15 +345,17 @@ def main():
     ]
 
 
-    ids=tokenizer(
+    encoding=tokenizer(
         prompt,
         return_tensors="pt",
         padding=True
-    ).input_ids.to(
+    )
+
+    ids= encoding.input_ids.to(
         model.llm.device
     )
 
-    attention_mask = ids.attention_mask.to(
+    attention_mask = encoding.attention_mask.to(
         model.llm.device
     )
 
