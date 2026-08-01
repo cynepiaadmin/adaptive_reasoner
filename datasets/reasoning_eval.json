@@ -1,1 +1,43 @@
+[
+  {
+    "id":1,
+    "difficulty":"easy",
+    "prompt":"What is 2 + 3?",
+    "answer":"5"
+  },
 
+  {
+    "id":2,
+    "difficulty":"easy",
+    "prompt":"What is 10 - 7?",
+    "answer":"3"
+  },
+
+  {
+    "id":3,
+    "difficulty":"medium",
+    "prompt":"John has 5 apples. He buys 3 more. He gives away 2. How many apples remain?",
+    "answer":"6"
+  },
+
+  {
+    "id":4,
+    "difficulty":"medium",
+    "prompt":"A book costs 10 dollars. A pen costs 3 dollars. What is the total cost?",
+    "answer":"13"
+  },
+
+  {
+    "id":5,
+    "difficulty":"hard",
+    "prompt":"A farmer has chickens and cows. There are 20 heads and 56 legs. How many chickens are there?",
+    "answer":"12"
+  },
+
+  {
+    "id":6,
+    "difficulty":"hard",
+    "prompt":"A train travels 60 km per hour for 3 hours and then 40 km per hour for 2 hours. What distance did it travel?",
+    "answer":"260"
+  }
+]
